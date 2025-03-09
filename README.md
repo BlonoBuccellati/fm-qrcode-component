@@ -30,18 +30,18 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/BlonoBuccellati/qrcode-component)
-- Live Site URL: [Add live site URL here](https://qrcode-component-sepia.vercel.app/)
+- Solution URL: [Frontend Mentor Solutions](https://www.frontendmentor.io/profile/BlonoBuccellati/solutions)
+- Live Site URL: [QR Code Deployed on Vercel](https://qrcode-component-sepia.vercel.app/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- TailwindCSS
 - Flexbox
 - [React](https://reactjs.org/) - JS library
 - [Next.js](https://nextjs.org/) - React framework
+- [tailwindcss](https://tailwindcss.com/) - utility-first framework
 
 ### What I learned
 
